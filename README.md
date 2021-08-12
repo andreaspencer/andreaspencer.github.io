@@ -1,6 +1,6 @@
 # Code Refactor Challenge- Horiseon Homepage
 ## Description
-Challenge was to refract the given code for the company Horiseon to make the homepage clearer in CSS and HTML while optimizing the accesibility of the webpage for the online platform.
+This weeks challenge was to refract the given code for the company Horiseon. Needed to make the homepage clearer in CSS and HTML while optimizing the accesibility of the webpage for the online viewing platform.
 
 ### Acceptance Criteria
 * Proper use of HTML semantic properties
@@ -22,7 +22,8 @@ Challenge was to refract the given code for the company Horiseon to make the hom
 * Added alt to images
 * Created a navigation tag and fixed navigation from top of page
 * Condensed redundant CSS styles
-* Created internal comments to easily navigate code
+* Created internal comments to easily navigate HTML and CSS
+* Fixed h tags 
 * Rearranged CSS to better match HTML structure 
 * Used semantic elements within HTML
 
