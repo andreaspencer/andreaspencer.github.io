@@ -23,7 +23,7 @@ This weeks challenge was to refract the given code for the company Horiseon. Nee
 * Created a navigation tag and fixed navigation from top of page
 * Condensed redundant CSS styles
 * Created internal comments to easily navigate HTML and CSS
-* Fixed h tags 
+* Fixed h tags order
 * Rearranged CSS to better match HTML structure 
 * Used semantic elements within HTML
 
