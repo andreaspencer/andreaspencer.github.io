@@ -12,10 +12,29 @@ Challenge was to refract the given code for the company Horiseon to make the hom
 #### Locally Download Instructions
 1. clone github repository from ssh link
 2. open terminal to desktop location 
-    * '' bash git clone git@github.com:andreaspencer/andreaspencer.github.io.git ''
-    * '' bash cd andreaspencer.github.io ''
-    * '' bash code . ''
+    * ''' bash 
+    git clone git@github.com:andreaspencer/andreaspencer.github.io.git
+    '''
+    * ''' bash 
+    cd andreaspencer.github.io 
+    '''
+    * ''' bash 
+    code . 
+    '''
         - this last step will open the coe in VS studios to view code on local machine
+
+##### Work Completed
+* Removed unncessary classes and IDs
+* Added alt to images
+* Created a navigation tag and fixed navigation from top of page
+* Condensed redundant CSS styles
+* Created internal comments to easily navigate code
+* Rearranged CSS to better match HTML structure 
+* Used semantic elements within HTML
+
+###### Website Link
+https://github.com/andreaspencer/andreaspencer.github.io
+
 
 
 
