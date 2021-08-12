@@ -11,17 +11,11 @@ Challenge was to refract the given code for the company Horiseon to make the hom
 
 #### Locally Download Instructions
 1. clone github repository from ssh link
-2. open terminal to desktop location 
-    ''' bash 
-    git clone git@github.com:andreaspencer/andreaspencer.github.io.git
-    '''
-    ''' bash 
-    cd andreaspencer.github.io 
-    '''
-    ''' bash 
-    code . 
-    '''
-        - this last step will open the coe in VS studios to view code on local machine
+2. open terminal to desired cloning location then type in following:
+     * git clone git@github.com:andreaspencer/andreaspencer.github.io.git
+     * cd andreaspencer.github.io 
+     * code .
+        - this last step will open the code in VS studios to view code on local machine
 
 ##### Work Completed
 * Removed unncessary classes and IDs
