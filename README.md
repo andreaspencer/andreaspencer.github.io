@@ -12,13 +12,13 @@ Challenge was to refract the given code for the company Horiseon to make the hom
 #### Locally Download Instructions
 1. clone github repository from ssh link
 2. open terminal to desktop location 
-    * ''' bash 
+    ''' bash 
     git clone git@github.com:andreaspencer/andreaspencer.github.io.git
     '''
-    * ''' bash 
+    ''' bash 
     cd andreaspencer.github.io 
     '''
-    * ''' bash 
+    ''' bash 
     code . 
     '''
         - this last step will open the coe in VS studios to view code on local machine
