@@ -24,7 +24,7 @@ body {
     color: #d9dcd6;
 }
 
-/* Navigation styling start */
+/* navigation styling start */
 
 .header nav {
     padding-top: 15px;
@@ -43,7 +43,7 @@ body {
     margin-left: 25px;
 }
 
-/* End navigation styling */
+/* end navigation styling */
 
 a {
     color: #ffffff;
@@ -54,7 +54,7 @@ p {
     font-size: 16px;
 }
 
-/* All hero information start */
+/*  hero information start */
 .hero {
     height: 800px;
     width: 100%;
@@ -75,6 +75,8 @@ p {
     margin-left: 650px;
     margin-top: -135px;
 }
+
+/* start of pages content */
 
 .content {
     text-align: center;
@@ -109,6 +111,9 @@ p {
 .text-right {
     text-align: right;
 }
+/* end of pages content */
+
+/* start benefits panel */
 
 .benefits {
     margin-right: 20px;
@@ -138,6 +143,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* end benefits panel */
+
+/* footer start */
 
 .footer {
     padding: 30px;
@@ -149,3 +157,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/* footer end */
